@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Configuration to store sensitive data 
 .env
 
+=======
+>>>>>>> f6c8435ae2160868a0c23af992dd4f78adacef60
 # Logs
 logs
 *.log
