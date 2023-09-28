@@ -1,3 +1,6 @@
+# Configuration to store sensitive data 
+.env
+
 # Logs
 logs
 *.log
